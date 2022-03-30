@@ -1,0 +1,2 @@
+html{scroll-behavior:smooth}body{background-color:#eee}#mapHW{height:81vh;width:100%;margin-top:10px}.pin{width:40px;height:40px;border-radius:50% 50% 50% 0;background:red;-webkit-transform:rotate(-45deg);transform:rotate(-45deg);left:50%;top:50%;margin:-20px 0 0 -20px}.pin,.pin:after{position:absolute}.pin:after{content:"";width:18px;height:18px;margin:12px 0 0 10px;background:#e6e6e6;border-radius:50%}.pin:hover{background-color:orange}
+/*# sourceMappingURL=main.14197597.chunk.css.map */
